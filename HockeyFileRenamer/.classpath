@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/dev/HockeyFileRenamer/lib/sanselan-0.97-incubator.jar" sourcepath="C:/Users/doug/Downloads/java exif reader writer/apache-sanselan-incubating-0.97-src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

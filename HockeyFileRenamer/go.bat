@@ -1,0 +1,1 @@
+java -cp "./;./lib/sanselan-0.97-incubator;hockeyFileRenamer.jar" com.douglove.hockey.HockeyFileRenamer "F:/photos/2011/09-september/2011-09-08 hockey" C:/dev/HockeyFileRenamer/data/config.txt C:/dev/HockeyFileRenamer/data/playerFile.txt C:/dev/HockeyFileRenamer/data/actionFile.txt
